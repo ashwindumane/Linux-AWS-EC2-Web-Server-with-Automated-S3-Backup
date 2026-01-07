@@ -2,8 +2,6 @@
 
 This project focuses on hands-on practice with Linux and AWS services. A Linux-based web server is deployed on an Amazon EC2 instance to host a simple web application. The application data is automatically backed up to Amazon S3 using shell scripting and cron jobs. This project demonstrates practical skills in Linux server management, AWS EC2, S3 storage, IAM roles, and basic automation.
 
----
-
 ## 🛠️ Technologies / Services Used
 
 - **Operating System:** Amazon Linux 2023  
@@ -16,9 +14,7 @@ This project focuses on hands-on practice with Linux and AWS services. A Linux-b
 - **Command Line Tool:** AWS CLI  
 - **Scheduling:** Cron  
 
----
-
-## 📋 Step-by-Step Implementation
+## Step-by-Step Implementation
 
 ### 🔹 Step 1: AWS EC2 Instance Created
 
@@ -80,16 +76,12 @@ This project focuses on hands-on practice with Linux and AWS services. A Linux-b
 
 <img width="1072" height="592" alt="Web Application Running on EC2" src="https://github.com/user-attachments/assets/8c65b13d-9103-44e4-ad3a-6e2f535719de" />
 
----
-
 ## ✅ Project Outcome
 
 - Linux web server deployed on AWS EC2  
 - Automated backup solution implemented using shell scripting and cron  
 - Secure AWS access configured using IAM roles  
 - Backup data successfully stored and verified in Amazon S3
-  
----
 
 ## 🎯 Conclusion
 
