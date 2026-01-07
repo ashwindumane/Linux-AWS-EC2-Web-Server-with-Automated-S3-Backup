@@ -1,0 +1,2 @@
+# Linux-AWS-EC2-Web-Server-with-Automated-S3-Backup
+This project focuses on Linux and AWS services. We will deploy a Linux-based web server on an AWS EC2 instance and host a simple web application. Application data will be backed up automatically to Amazon S3 using shell scripting and cron jobs. The project helps us to understand Linux server management, AWS EC2, S3 storage, IAM roles &amp; automation.
